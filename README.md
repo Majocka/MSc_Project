@@ -1,7 +1,7 @@
 
 ## msc_project
 
-The main aim was to extract evolutionary knowledge from protein structures via a structural alignment tool and in-house 2-stage hierarchical clustering. The method allows obtaining structural regions of protein that have remained preserved throughout the evolution. As an example, for 1f6m_E the preserved regions are shown below in blue and magenta colors. 
+The main aim was to extract 'evolutionary' knowledge from protein structures via a structural alignment tool and in-house 2-stage hierarchical clustering. The method allows obtaining structural regions of protein that have remained preserved throughout the evolution. As an example, for 1f6m_E the preserved regions are shown below in blue and magenta colors. 
 
 <img src="https://github.com/Majocka/msc_project/blob/master/results_to_view/image_final_clusters.png" width="300" height="270" />
 
